@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\week3\Jacob Solution\bin\Debug\Jacob Solution.exe.config
+C:\Users\jacob\source\repos\week3\Jacob Solution\bin\Debug\Jacob Solution.exe
+C:\Users\jacob\source\repos\week3\Jacob Solution\bin\Debug\Jacob Solution.pdb
+C:\Users\jacob\source\repos\week3\Jacob Solution\obj\Debug\Jacob Solution.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\week3\Jacob Solution\obj\Debug\Jacob Solution.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\week3\Jacob Solution\obj\Debug\Jacob Solution.exe
+C:\Users\jacob\source\repos\week3\Jacob Solution\obj\Debug\Jacob Solution.pdb
