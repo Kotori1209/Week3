@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\chuck\\development\\lcc programming class\\source\\repos\\week3\\Charlie\\Charlie.csproj": {}
+    "C:\\Users\\Cyrus Carbone\\Source\\Repos\\Week3\\Charlie\\Charlie.csproj": {}
   },
   "projects": {
-    "C:\\chuck\\development\\lcc programming class\\source\\repos\\week3\\Charlie\\Charlie.csproj": {
+    "C:\\Users\\Cyrus Carbone\\Source\\Repos\\Week3\\Charlie\\Charlie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\chuck\\development\\lcc programming class\\source\\repos\\week3\\Charlie\\Charlie.csproj",
+        "projectUniqueName": "C:\\Users\\Cyrus Carbone\\Source\\Repos\\Week3\\Charlie\\Charlie.csproj",
         "projectName": "Charlie",
-        "projectPath": "C:\\chuck\\development\\lcc programming class\\source\\repos\\week3\\Charlie\\Charlie.csproj",
-        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\chuck\\development\\lcc programming class\\source\\repos\\week3\\Charlie\\obj\\",
+        "projectPath": "C:\\Users\\Cyrus Carbone\\Source\\Repos\\Week3\\Charlie\\Charlie.csproj",
+        "packagesPath": "C:\\Users\\Cyrus Carbone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cyrus Carbone\\Source\\Repos\\Week3\\Charlie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cyrus Carbone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
