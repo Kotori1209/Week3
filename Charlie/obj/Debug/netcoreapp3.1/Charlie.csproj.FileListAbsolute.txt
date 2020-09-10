@@ -11,3 +11,16 @@ C:\chuck\development\lcc programming class\source\repos\week3\Charlie\obj\Debug\
 C:\chuck\development\lcc programming class\source\repos\week3\Charlie\obj\Debug\netcoreapp3.1\Charlie.dll
 C:\chuck\development\lcc programming class\source\repos\week3\Charlie\obj\Debug\netcoreapp3.1\Charlie.pdb
 C:\chuck\development\lcc programming class\source\repos\week3\Charlie\obj\Debug\netcoreapp3.1\Charlie.genruntimeconfig.cache
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\bin\Debug\netcoreapp3.1\Charlie.exe
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\bin\Debug\netcoreapp3.1\Charlie.deps.json
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\bin\Debug\netcoreapp3.1\Charlie.runtimeconfig.json
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\bin\Debug\netcoreapp3.1\Charlie.runtimeconfig.dev.json
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\bin\Debug\netcoreapp3.1\Charlie.dll
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\bin\Debug\netcoreapp3.1\Charlie.pdb
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\obj\Debug\netcoreapp3.1\Charlie.csprojAssemblyReference.cache
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\obj\Debug\netcoreapp3.1\Charlie.AssemblyInfoInputs.cache
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\obj\Debug\netcoreapp3.1\Charlie.AssemblyInfo.cs
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\obj\Debug\netcoreapp3.1\Charlie.csproj.CoreCompileInputs.cache
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\obj\Debug\netcoreapp3.1\Charlie.dll
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\obj\Debug\netcoreapp3.1\Charlie.pdb
+C:\Users\chenb1\source\repos\Week3(1)\Charlie\obj\Debug\netcoreapp3.1\Charlie.genruntimeconfig.cache

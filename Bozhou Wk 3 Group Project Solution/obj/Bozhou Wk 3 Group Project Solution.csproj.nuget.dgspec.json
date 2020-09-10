@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Charlie\\Charlie.csproj": {}
+    "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Bozhou Wk 3 Group Project Solution\\Bozhou Wk 3 Group Project Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Charlie\\Charlie.csproj": {
+    "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Bozhou Wk 3 Group Project Solution\\Bozhou Wk 3 Group Project Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Charlie\\Charlie.csproj",
-        "projectName": "Charlie",
-        "projectPath": "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Charlie\\Charlie.csproj",
+        "projectUniqueName": "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Bozhou Wk 3 Group Project Solution\\Bozhou Wk 3 Group Project Solution.csproj",
+        "projectName": "Bozhou Wk 3 Group Project Solution",
+        "projectPath": "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Bozhou Wk 3 Group Project Solution\\Bozhou Wk 3 Group Project Solution.csproj",
         "packagesPath": "C:\\Users\\chenb1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Charlie\\obj\\",
+        "outputPath": "C:\\Users\\chenb1\\source\\repos\\Week3(1)\\Bozhou Wk 3 Group Project Solution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
