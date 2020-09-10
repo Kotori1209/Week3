@@ -1,0 +1,13 @@
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\bin\Debug\netcoreapp3.1\TylersSolution.exe
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\bin\Debug\netcoreapp3.1\TylersSolution.deps.json
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\bin\Debug\netcoreapp3.1\TylersSolution.runtimeconfig.json
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\bin\Debug\netcoreapp3.1\TylersSolution.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\bin\Debug\netcoreapp3.1\TylersSolution.dll
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\bin\Debug\netcoreapp3.1\TylersSolution.pdb
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\obj\Debug\netcoreapp3.1\TylersSolution.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\obj\Debug\netcoreapp3.1\TylersSolution.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\obj\Debug\netcoreapp3.1\TylersSolution.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\obj\Debug\netcoreapp3.1\TylersSolution.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\obj\Debug\netcoreapp3.1\TylersSolution.dll
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\obj\Debug\netcoreapp3.1\TylersSolution.pdb
+C:\Users\Tyler\Desktop\CITP\Week3\TylersSolution\obj\Debug\netcoreapp3.1\TylersSolution.genruntimeconfig.cache

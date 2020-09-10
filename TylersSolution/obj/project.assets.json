@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\Desktop\\CITP\\Week3\\Charlie\\Charlie.csproj",
-      "projectName": "Charlie",
-      "projectPath": "C:\\Users\\Tyler\\Desktop\\CITP\\Week3\\Charlie\\Charlie.csproj",
+      "projectUniqueName": "C:\\Users\\Tyler\\Desktop\\CITP\\Week3\\TylersSolution\\TylersSolution.csproj",
+      "projectName": "TylersSolution",
+      "projectPath": "C:\\Users\\Tyler\\Desktop\\CITP\\Week3\\TylersSolution\\TylersSolution.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\Desktop\\CITP\\Week3\\Charlie\\obj\\",
+      "outputPath": "C:\\Users\\Tyler\\Desktop\\CITP\\Week3\\TylersSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
